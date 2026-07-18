@@ -1,0 +1,6 @@
+{
+  "name": "Document Editor & Enhancer",
+  "description": "A document editor with PDF export and Gemini enhancement capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
